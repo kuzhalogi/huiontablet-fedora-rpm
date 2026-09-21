@@ -2,3 +2,6 @@
 *.tar.gz
 *.tgz
 huion-data/
+.HuionCore.pid
+.DriverUI.pid
+.huion.log
